@@ -13,4 +13,4 @@ Rockbuster Data Set - This dataset was created by CareerFoundry for use in this 
 ### Tools
 The data was analyzed using a relational database management system and PostgreSQL.
 ### Visualizations
-All visualizations were created in Tableau Public and may can be found here: (https://public.tableau.com/views/RockbusterStealthLLC_/Toprevenue?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+All visualizations were created in Tableau Public and may can be found here: [Tableau Workbook](https://public.tableau.com/views/RockbusterStealthLLC_/Toprevenue?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
